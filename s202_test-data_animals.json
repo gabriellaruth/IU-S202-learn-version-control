@@ -34,5 +34,11 @@
    "scientificName": "Dromaius novaehollandiae",
    "habitat": "Sclerophyll forests, savannah woodlands, pen grasslands",
    "description": "A large flightless bird native to Australia and the second-tallest bird in the world after the ostrich."
-  }
+  },
+  {
+   "commonName": "Mexican Gray Wolf",
+   "scientificName": "Canis lupus baileyi",
+   "habitat": "Mountain woodlands, ponderosa pine forests, rolling grasslands, and scrublands, as well as portions of the Chihuahuan and Sonoran deserts",
+   "description": "The smallest, rarest, and most genetically distinct subspecies of gray wolf in North America."
+   }
 ]
