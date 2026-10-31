@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+   "commonName": "Emu",
+   "scientificName": "Dromaius novaehollandiae",
+   "habitat": "Sclerophyll forests, savannah woodlands, pen grasslands",
+   "description": "A large flightless bird native to Australia and the second-tallest bird in the world after the ostrich."
   }
 ]
